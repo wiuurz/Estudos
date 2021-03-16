@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background: rgb(255, 255, 255);
+    margin: 0;
+}
+
+header img {
+    position: absolute;
+    bottom: 1;
+    width: inherit;
+    height: 30px;
+    margin-left: 100px;
+}
+
+header div img {
+    background-position: left;
+    background-repeat: no-repeat;
+}
+
+header ul li {
+    padding: 0px;
+    background-color: #03266886;
+    list-style: none;
+    display: inline;
+    border: solid rgb(38, 0, 255);
+    vertical-align: top;
+    text-align: center;
+    float: right;
+}
